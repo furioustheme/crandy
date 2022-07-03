@@ -1,4 +1,4 @@
-# Crandy - Currency Exchange HTML Template ➜ [Demo](https://furioustheme-crandy.netlify.app/demo.html)
+# Crandy - Currency Exchange HTML Dashboard ➜ [Demo](https://furioustheme-crandy.netlify.app/demo.html)
 
 [![Crandy](https://furioustheme.com/products/crandy.png)](https://furioustheme-crandy.netlify.app/demo.html)
 
